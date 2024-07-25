@@ -17,7 +17,7 @@ function generateGrid(gridSide) {
     }
 }
 
-let gridSide = 4;
+let gridSide = 16;
 let container = document.querySelector(".container");
 gridSize = 750;
 container.style.width = `${gridSize}px`;
